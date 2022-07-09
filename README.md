@@ -2,7 +2,7 @@
 
 ## Assignment activity 1: Prepare your GitHub repository
 
-My Github Link: https://github.com/feinwc/LSE_DA_COVID_analysis
+My Github Link: https://github.com/feinwc/LSE_DA201_assignment
 
 ## Assignment activity 2: Import and explore the data
 
